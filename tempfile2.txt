@@ -1,0 +1,1 @@
+Learning how to ignore a file that had been tracked previously.
