@@ -1,0 +1,5 @@
+To ignore files and have them
+ disappear from git add and git diff
+git update-index --assume-unchanged path/to/file.txt 
+Apparently this can be undone
+by using git update-index --no-assume-unchanged path/to/file.txt
