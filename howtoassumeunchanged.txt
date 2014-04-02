@@ -3,3 +3,7 @@ To ignore files and have them
 git update-index --assume-unchanged path/to/file.txt 
 Apparently this can be undone
 by using git update-index --no-assume-unchanged path/to/file.txt
+
+Okay! It worked. (Previous bug: in .gitignore there was a line for *.txt.) 
+
+Second line of changes. Will Git assume howtoassumeunchanged.txt is unchanged?
